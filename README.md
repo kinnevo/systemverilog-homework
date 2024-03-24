@@ -1,16 +1,15 @@
-# Сборник задач на SystemVerilog для Школы Синтеза Цифровых Схем
-
-> **Ни дня без строчки на Верилоге**
+# Collection of problems on SystemVerilog for the School of Digital Circuit Synthesis
+> **Not a day without a line on Verilog**
 >
-> Сборник задач увеличивающейся сложности
->
-> Юрий Панчул, 2021-2023
+> Collection of problems of increasing complexity
+> 
+> Yuri Panchul, 2021-2023
 
+## Links
 
-## Ссылки
-
-* [Школа Синтеза Цифровых Схем](https://engineer.yadro.com/chip-design-school/)
-* [Занятие первое: введение в маршрут проектирования и упражнения с комбинационной логикой](https://youtu.be/DFcvEO-gP0c)
+* [School of Digital Circuit Synthesis](https://engineer.yadro.com/chip-design-school/)
+* [Lesson one: introduction to the design route and exercises with combinational logic](https://youtu.be/DFcvEO-gP0c)
+  
 
 <!-- Some markdown video embedding tricks from https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md -->
 
